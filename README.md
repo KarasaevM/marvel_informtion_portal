@@ -10,35 +10,6 @@ This is a web application that allows you to obtain information about characters
 - React
 - Create React App (Webpack)
 
-## Contributing
-
-You can contribute to the development of this project by following these steps:
-
-- Fork the repository (fork).
-- Create your feature branch
-
-```
-git checkout -b feature/YourFeature
-```
-
-- Make the necessary changes.
-- Commit your changes
-
-```
-git commit -am 'Add some feature'
-```
-
-- Push your changes to the remote repository
-
-```
-git push origin feature/YourFeature
-```
-
-- Create a new Pull Request.
-
-**Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.**
-
 ## Contact
 
 <p align="left">
